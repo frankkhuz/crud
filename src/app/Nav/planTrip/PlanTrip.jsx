@@ -269,13 +269,6 @@ const PlanTrip = () => {
           </div>
         </div>
         <div className="bg-white h-5 border ">
-          <div></div>
-          <div>
-            <p>
-              Facilities: Baggage: 20kg, Cabin Baggage: 8kg In flight
-              entertainment In flight meal USB Port
-            </p>
-          </div>
           {/* <div>
             <Link>Flight details</Link>
             <Link>Price details</Link>
