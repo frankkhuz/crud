@@ -8,9 +8,9 @@ import PlanTrip from "./Nav/planTrip/PlanTrip";
 export default function Home() {
   return (
     <div>
-      {/* <Nav />
-      <Body /> */}
-      <PlanTrip />
+      <Nav />
+      <Body />
+      {/* <PlanTrip /> */}
     </div>
   );
 }
